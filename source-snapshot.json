@@ -1,0 +1,49 @@
+{
+  "name": "study-pace",
+  "production_url": "https://study-pace-a98b4.web.app/",
+  "production_version": "Firebase production snapshot deployed 2026-10-07",
+  "public_project_identifier": "study-pace-a98b4",
+  "original_source_commit": "0ccdd5f270e3d5b6d547673effc8ee4d3fc83f64",
+  "original_files": [
+    {
+      "path": "dist/app.js",
+      "sha256": "1e210201a02df9af26f2ee6dc5d91fda54fd46119418ae4630a5a047555d49b4",
+      "size": 7952
+    },
+    {
+      "path": "dist/favicon.svg",
+      "sha256": "d82dd1572678390edd0d07b83e7196da7ac5b0a2db78f3071957eb24b70c8f10",
+      "size": 247
+    },
+    {
+      "path": "dist/index.html",
+      "sha256": "5b4a17bc15c88e4b6928f582e4f643947b4b06fc89311d3de80c4eddf406d2bd",
+      "size": 10542
+    },
+    {
+      "path": "dist/style.css",
+      "sha256": "0012d9741a6853bbf4e8c3d209d8e7cdc923e8f214fdb8a696729395d41953af",
+      "size": 9424
+    },
+    {
+      "path": "firebase.json",
+      "sha256": "a26e1bb072eaf0a127a8b3ae85fedf2fac0cfaf417190e2c11d0031dc3571ed8",
+      "size": 283
+    },
+    {
+      "path": "Study-Pace.html",
+      "sha256": "0b4effb14e3c18ee9de35542f40ebb806605d1629ff7ada9d95f675465bd2660",
+      "size": 28243
+    },
+    {
+      "path": "qa/calculation-tests.cjs",
+      "sha256": "212bdf33e586cec287c3e70514eb8aae315900f7d68a2056da871a7d4054d4a5",
+      "size": 2043
+    },
+    {
+      "path": "qa/check.cjs",
+      "sha256": "94a4edab0f08e3f74ab856674df3f4cbf7c44380869ecd796c4248b3d8ef6ff2",
+      "size": 1378
+    }
+  ]
+}
