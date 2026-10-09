@@ -1,5 +1,13 @@
 # Asset provenance and licensing
 
-The application assets and writing were created for this project. No bundled external fonts, photos, models or game art were found. System fonts are used. External reference links do not include copies of their contents.
+## Project materials
 
-No open-source license is newly assigned to the application code or project artwork. This is a private source backup. Third-party packages are obtained from npm rather than vendored: NPC development dependencies jsdom 30.1.2 and @napi-rs/canvas 1.0.10 declare MIT licenses; optional Oddlings browser QA uses playwright-core under Apache-2.0. Preserve the applicable dependency notices if distributing dependency code later. No external assets with unclear redistribution rights were included.
+The application artwork and writing were created for this project. The SVG favicon and the icon embedded in Study-Pace.html are project artwork. No bundled external fonts, photos, models or game art are included. System fonts are used. External reference links do not redistribute copies of the linked works.
+
+Copyright (c) 2026 EiA. The application code, project documentation and original project artwork, including the project SVG favicon and the SVG icon embedded in Study-Pace.html, are licensed under [MIT](LICENSE).
+
+## Third-party materials
+
+The production application and calculation tests require no npm dependencies. The optional browser QA script uses Playwright, which is not vendored in this repository and retains its own license.
+
+Third-party components retain their existing licenses and notices. Preserve applicable license and attribution notices if distributing dependency code later. The project MIT license does not replace these licenses or grant rights to external reference works, system fonts or third-party trademarks.
